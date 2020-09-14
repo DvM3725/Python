@@ -1,0 +1,12 @@
+>>> message = "Hello and welcome to the input"
+>>> print(message)
+Hello and welcome to the input
+>>> message1 = "Please put down the company name"+companyname
+>>> print(message1)
+Please put down the company name
+>>> message2 = "Please put down the required number of fiber optic to be installed"
+>>> print(message2)
+Please put down the required number of fiber optic to be installed
+>>> totalcost = (number of feet * .87)
+SyntaxError: invalid syntax
+>>> message3 = "The total cost is "+ totalcost + "and the company name is"+companyname
