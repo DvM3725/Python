@@ -1,7 +1,9 @@
-message = "Hello and welcome to the input provider";
-message1 = "Please put down the company name"+ companyname;
-message2 = "Please put down the required number of fiber optic feet needed";
-double totalcost = (number of feet *.87);
-message3 = "The total cost is" + totalcost +"and the company name is"+ companyname;
+def greet(companyname):
+message = "Hello and welcome to the input provider"
+message1 = "Please put down the company name"+ companyname
+def('FiberImports')
+message2 = "Please put down the required number of fiber optic feet needed"
+double totalcost = (number of feet *.87)
+message3 = "The total cost is" + totalcost +"and the company name is"+ companyname
 
 
